@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Брайловский](https://up.htmlacademy.ru/react/3/user/619481).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Цапко](https://htmlacademy.ru/profile/id1350525).
 
 ---
 
